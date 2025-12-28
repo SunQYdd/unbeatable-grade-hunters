@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/ai-prediction/page": "/ai-prediction",
+  "/category-management/page": "/category-management",
+  "/history/page": "/history",
+  "/login/page": "/login",
+  "/page": "/",
+  "/post-management/page": "/post-management",
+  "/report/page": "/report",
+  "/sensitive-words/page": "/sensitive-words",
+  "/user-management/page": "/user-management"
+}
